@@ -1,0 +1,50 @@
+{
+    "name": "super luigi",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "multiplayer": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.53",
+        "pxt": "8.5.52",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#C96936",
+        "#a7f070",
+        "#ef7d57",
+        "#ffcd75",
+        "#FFB561",
+        "#38b764",
+        "#314087",
+        "#FFD977",
+        "#41a6f6",
+        "#566c86",
+        "#333c57",
+        "#94b0c2",
+        "#FFF700",
+        "#1a1c2c"
+    ]
+}
